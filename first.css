@@ -1,0 +1,374 @@
+#tl{
+   color: white;
+   text-decoration: none;
+}
+img{
+   border-radius: 50%;
+   margin-top: 4px;
+}
+a{
+   margin-left: 50px;
+   justify-content: center;
+}
+h2{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#coll{
+   height: 100%;
+   width: 100%;
+}
+#hname{
+     margin-top: 90px;
+     margin-left: 30px;
+}
+h4{
+   width: 100%;
+   opacity: 70%;
+   
+}
+body {
+   margin: 0;
+   font-family: Arial, sans-serif;
+ }
+ 
+ header h1 {
+   font-size: 1.5rem;
+ }
+ 
+ nav ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+ }
+ 
+ nav .nav-link {
+   color: #fff;
+   text-decoration: none;
+ }
+ 
+ .carousel img {
+   border-radius: 8px;
+ }
+ 
+ .carousel p {
+   font-size: 1rem;
+   color: #fff;
+ }
+ 
+ footer p {
+   margin: 0;
+ }
+ .card{
+  text-align: center;
+ }
+ #race{
+  height: 600px;
+  width: 100%;
+  border-radius: 5px;
+ }
+ #rr{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .lg{
+  height: 100px;
+  width: 50%;
+  background-color: grey;
+   margin-top: 20px;
+   margin-left: 50px;
+   border-radius: 2px;
+ }
+ /* #fa{
+  padding-left: 5px;
+ } */
+.fh{
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 2px;
+  font-size: 18px;
+} 
+#mail{
+  border: 2px solid white;
+  border-radius: 30px;
+  height: 60px;
+  padding: 10px;
+}
+#arr{
+  margin-left:-40px;
+}
+.fh1{
+  color: white;
+  line-height: 18px;
+  
+}
+.cp{
+  color: white;
+  margin-top: 50px;
+}
+
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #f9f9f9;
+}
+header {
+  background: #222;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+  position: relative;
+}
+header img {
+  max-width: 150px;
+  position: absolute;
+  top: 50%;
+  left: 1rem;
+  transform: translateY(-50%);
+}
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+.content {
+  padding: 2rem;
+}
+.content h2 {
+  color: #222;
+}
+.content p {
+  margin-bottom: 1rem;
+}
+.content img {
+  max-width: 100%;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+.cta {
+  text-align: center;
+  margin-top: 2rem;
+}
+.cta a {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.cta a:hover {
+  background: #0056b3;
+}
+.p1{
+  font-size: 20px;
+}
+/* .first-col-sm-12{
+background-image: url(img/axorbg.webp);
+} */
+.second-col-sm-12{
+  background-image: url(img/abimg.webp);
+  background-size: contain;
+ 
+}
+/* #abwel{
+  background-image: url(img/wel.webp);
+} */
+ #ax1{
+  color: black;
+  text-decoration: none
+ }
+/* #ax1:hover{
+  border: 1px solid red;
+ } */
+#cart{
+  padding: 10px;
+  width: 30%;
+  margin-left: 10px;
+  background-color: rgba(26, 25, 25, 0.733);
+  color: white;
+  border-radius: 10px 20px 10px 20px;
+  border: none;
+}
+#logos{
+  margin-left: 40px;
+  opacity: 0.7;
+}
+#nxt-pg{
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 10%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  margin-left: 10px;
+}
+.qty{
+ 
+  padding: 10px;
+}
+#sub{
+  margin-left: 10px;
+  margin-top: -5px;
+  border: 1px solid black;
+  padding: 2px;
+  width: 20%;
+}
+#add{
+  border: 1px solid black;
+  padding: 2px;
+  width: 20%;
+}
+#num{
+  margin-left: 10px;
+}
+.log-div{
+  border: 2px solid black;
+  padding: 30px;
+  border-radius: 20px;
+  width: 70%;
+}
+#log-but{
+  width: 95%;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: orange;
+  border: none;
+}
+#tr{
+  border: none;
+}
+#tr-b{
+  background-color: black;
+  color: white;
+  padding: 8px;
+  width: 15%;
+  border-radius: 10px;
+}
+#wr{
+  font-size: 20px;
+}
+
+/* General Page Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Add to Cart Button */
+.add-to-cart {
+  background-color: #000;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin: 20px;
+}
+
+/* Cart Icon */
+.cart-icon {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #000;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Side Cart Panel */
+.cart-panel {
+  position: fixed;
+  top: 0;
+  right: -400px;
+  width: 350px;
+  height: 100vh;
+  background: white;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+  transition: right 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Cart Header */
+.cart-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 2px solid #ddd;
+}
+
+/* Close Cart Button */
+.close-cart {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Cart Items */
+.cart-items {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+/* Cart Footer */
+.cart-footer {
+  padding: 15px;
+  border-top: 2px solid #ddd;
+  text-align: center;
+}
+
+/* Checkout Button */
+.checkout-btn {
+  background: #000;
+  color: white;
+  padding: 10px 20px;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+}
+/* Limit cart item image size */
+.cart-item-img {
+  width: 80px; /* Set max width */
+  height: 80px; /* Set max height */
+  object-fit: cover; /* Maintain aspect ratio */
+  border-radius: 5px;
+}
+
+/* Ensure cart panel does not overflow */
+.cart-panel {
+  width: 350px; /* Adjust width as needed */
+  max-height: 100vh;
+  overflow-y: auto; /* Enable scrolling */
+  position: fixed;
+  right: 0;
+  top: 0;
+  background: white;
+  box-shadow: -2px 0 10px rgba(0,0,0,0.2);
+  transition: right 0.3s ease-in-out;
+}
+
+/* Prevent cart content from stretching */
+.cart-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
